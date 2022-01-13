@@ -11,3 +11,6 @@ In stencil folder
 - Select and run the stencil `start` command.
 - `Ctrl+C` after dev server is started
 - Try to run other commands
+
+## Note
+- `rush select-node` which directly runs the rush-select script via node does not exhibit this problem.

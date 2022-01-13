@@ -18,6 +18,14 @@
       "safeForSimultaneousRushProcesses": true,
       "autoinstallerName": "select",
       "shellCommand": "rush-select"
+    },
+    {
+      "name": "select-node",
+      "commandKind": "global",
+      "summary": "Run rush-select",
+      "safeForSimultaneousRushProcesses": true,
+      "autoinstallerName": "select",
+      "shellCommand": "node ./common/autoinstallers/select/node_modules/@telia/rush-select/dist/index.js"
     }
     // {
     //   /**
