@@ -14,3 +14,4 @@ In stencil folder
 
 ## Note
 - `rush select-node` which directly runs the rush-select script via node does not exhibit this problem.
+- Similarly `rushx node` in stencil works fine.
